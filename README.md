@@ -21,3 +21,12 @@ home.dart: The HomePage widget is the main screen of the application. It utilize
 
 consts.dart: Contains constant values, including the OpenWeatherMap API key (OPENWEATHER_API_KEY).
 
+
+![Screeshot2](https://github.com/SmartAnshul/Flutter-Weather-Application/assets/91655706/42c2546e-e017-4bc1-ba3a-5fba12e7aac2)
+![Screenshot1](https://github.com/SmartAnshul/Flutter-Weather-Application/assets/91655706/4dec7999-3cb5-4b47-852e-343673f59b02)
+
+
+
+https://github.com/SmartAnshul/Flutter-Weather-Application/assets/91655706/f65ee2b9-6371-43e9-9209-c6e09526773a
+
+
